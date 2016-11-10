@@ -1,0 +1,8 @@
+body{
+	background-color:gray;
+}
+article.mainArticle{
+	padding:40px;background-color:#fff;margin-top: 100px;border-radius:14px;
+}
+
+#indicateAlert{display: none;}
